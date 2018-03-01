@@ -1,0 +1,13 @@
+weka.classifiers
+weka.classifiers.collective
+weka.classifiers.collective.evaluation
+weka.classifiers.collective.functions
+weka.classifiers.collective.lazy
+weka.classifiers.collective.lazy.ibk
+weka.classifiers.collective.meta
+weka.classifiers.collective.trees
+weka.classifiers.collective.trees.model
+weka.classifiers.collective.util
+weka.classifiers.evaluation
+weka.experiment
+weka.gui.explorer
