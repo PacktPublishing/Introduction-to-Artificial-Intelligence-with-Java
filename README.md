@@ -22,21 +22,28 @@ Next, we shall build upon machine learning applications using Weka. We shall wor
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 ●	Prior working knowledge of the Java programming language
+
 ●	Familiarity with Git and GitHub for source control
+
 ●	An understanding of basic Artificial Intelligence
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-This course has the following software requirements:
 ●	NetBeans 8.2
+
 ●	Weka 3.8
+
 ●	SWI-Prolog 7.6
 
 This course has been tested on the following system configuration:
 ●	OS: Windows 7, Windows 10, MacOS, Ubuntu Linux 16.04 LTS
+
 ●	Processor: Dual Core 3.0 Ghz
+
 ●	Memory: 4GB
+
 ●	Hard Disk Space: 200MB
+
 ●	Video Card: NA
 
 
