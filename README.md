@@ -36,6 +36,7 @@ This course has the following software requirements:<br/>
 ●	SWI-Prolog 7.6
 
 This course has been tested on the following system configuration:
+
 ●	OS: Windows 7, Windows 10, MacOS, Ubuntu Linux 16.04 LTS
 
 ●	Processor: Dual Core 3.0 Ghz
